@@ -142,3 +142,11 @@ BONUS: Remove a user's associated thoughts when deleted.
     POST to create a reaction stored in a single thought's reactions array field
 
     DELETE to pull and remove a reaction by the reaction's reactionId value
+    
+    ## Installation
+    
+    npm i & npm start 
+    
+    ## Contributing
+    
+    UT Bootcamp TA's Ian, Diem, and TJ
