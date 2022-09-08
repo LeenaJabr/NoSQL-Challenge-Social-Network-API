@@ -147,6 +147,11 @@ BONUS: Remove a user's associated thoughts when deleted.
     
     npm i & npm start 
     
+   
+    
+    
+    
+    
     ## Contributing
     
     UT Bootcamp TA's Ian, Diem, and TJ
