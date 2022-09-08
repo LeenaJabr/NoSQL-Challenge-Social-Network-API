@@ -7,10 +7,7 @@
 ## Demo
     
  ![ezgif com-gif-maker(10)](https://user-images.githubusercontent.com/107494937/189043813-7f810fcc-5c5e-438a-97ad-126fb181ccaf.gif)
-    
- ![18](https://user-images.githubusercontent.com/107494937/189043894-3098abd5-9331-4a25-969e-aa63aef80854.PNG)
-   
-   
+      
 
 ## Description
 
