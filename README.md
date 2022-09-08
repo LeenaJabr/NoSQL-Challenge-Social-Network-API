@@ -3,6 +3,14 @@
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-blue"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
+    
+## Demo
+    
+ ![ezgif com-gif-maker(10)](https://user-images.githubusercontent.com/107494937/189043813-7f810fcc-5c5e-438a-97ad-126fb181ccaf.gif)
+    
+ ![18](https://user-images.githubusercontent.com/107494937/189043894-3098abd5-9331-4a25-969e-aa63aef80854.PNG)
+   
+   
 
 ## Description
 
@@ -11,6 +19,10 @@ API for a social network web application where users can share their thoughts, r
 - MongoDB database
 - Mongoose ODM
 - JavaScript date library 
+    
+## Contributions
+
+I would like to acknowledge my TA's Diem and Ian for assisting my issues.    
 
 ## Use 
 
@@ -148,10 +160,3 @@ BONUS: Remove a user's associated thoughts when deleted.
     npm i & npm start 
     
    
-    
-    
-    
-    
-    ## Contributing
-    
-    UT Bootcamp TA's Ian, Diem, and TJ
